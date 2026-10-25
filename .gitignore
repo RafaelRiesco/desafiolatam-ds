@@ -4,3 +4,7 @@ __pycache__/
 .ipynb_checkpoints/
 data-housing.xlsx
 *.npy
+*.bin
+*.bin.gz
+.DS_Store
+**/download
